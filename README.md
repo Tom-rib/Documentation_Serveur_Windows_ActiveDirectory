@@ -5,25 +5,25 @@ Bienvenue dans ce dépôt GitHub, consacré à la mise en œuvre d'une infrastru
 # Sommaire
 
 
-Matrice Permissions Groupe et utilisateur et Diagramme UML
+1. Matrice Permissions Groupe et utilisateur et Diagramme UML
 
-Installation de Windows Serveur, Active Directory
+2. Installation de Windows Serveur, Active Directory
 
-Création des Unités d’organisation et des sous unité (UO)
+3. Création des Unités d’organisation et des sous unité (UO)
 
-Création du script PowerShell des Unités d’organisation, groupes et utilisateurs à partir d’un fichier CSV
+4. Création du script PowerShell des Unités d’organisation, groupes et utilisateurs à partir d’un fichier CSV
 
-Création et Connexion des postes de travail
+5. Création et Connexion des postes de travail
 
-Script automatisation sécurité
+6. Script automatisation sécurité
 
-Monter les lecteurs réseaux
+7. Monter les lecteurs réseaux
 
-Monter les IMPRIMANTES
+8. Monter les IMPRIMANTES
 
-Contrôleur DOMAINE Secondaire et Réplication
+9. Contrôleur DOMAINE Secondaire et Réplication
 
-Création d’un Script PowerShell Pour les Dossiers Imprimante et GPO
+10. Création d’un Script PowerShell Pour les Dossiers Imprimante et GPO
 
 
 
