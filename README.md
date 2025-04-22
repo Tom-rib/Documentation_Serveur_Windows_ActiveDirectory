@@ -2,7 +2,7 @@
 
 Bienvenue dans ce dépôt GitHub, consacré à la mise en œuvre d'une infrastructure informatique puissante et sécurisée utilisant Windows Serveur et Active Directory. Le guide et les scripts fournis ici vous aideront à automatiser et à gérer efficacement les composantes essentielles de votre environnement réseau.
 
-#Sommaire
+# Sommaire
 
 
 Matrice Permissions Groupe et utilisateur et Diagramme UML
