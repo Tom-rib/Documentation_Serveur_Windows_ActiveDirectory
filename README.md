@@ -31,7 +31,7 @@ Découvrez comment installer et configurer Windows Serveur avec Active Directory
 
 ---
 
-## 3## 3. Création des Unités d’organisation et des sous unité (UO)
+## 3. Création des Unités d’organisation et des sous unité (UO)
 
 Les Unités d'Organisation (UO) structurent votre Active Directory, facilitant la gestion des permissions et des politiques de groupe. Apprenez à créer et organiser vos UO pour optimiser la gestion des utilisateurs et des ressources.
 
